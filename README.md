@@ -3,9 +3,11 @@ I am a Wipro-certified Full Stack Developer.<br><br>Good Knowledge & Experience 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-sharma-65b9541bb/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Deveshsharma1/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/devesh-sharma96/pens/public) <a href="mailto:deveshsharma9958@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Devesh%20Sharma-D14836?logo=gmail&logoColor=white">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-sharma-65b9541bb/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Deveshsharma1/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/devesh-sharma96/pens/public) 
+<a href="mailto:deveshsharma9958@gmail.com?subject=Hiring%20Inquiry&body=Hello%20Devesh,%0AI%20would%20like%20to%20connect%20with%20you.">
+  <img src="https://img.shields.io/badge/Contact%20Me-Gmail-D14836?logo=gmail&logoColor=white">
 </a>
+
 
 
 
